@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Alcohol or Gasoline',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
       ),
       home: MyHomePage(),
       debugShowCheckedModeBanner: false,
